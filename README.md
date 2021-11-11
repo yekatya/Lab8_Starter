@@ -1,6 +1,6 @@
 # Team Member(s): Yekaterina Kostina
 
-
+## Check Your Understanding
 1.) I would manually run them locally before I push my code.
 
 2.) Yes
